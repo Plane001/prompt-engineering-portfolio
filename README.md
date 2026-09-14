@@ -20,7 +20,7 @@ Write it the way you would introduce yourself to a mentor or a hiring manager: c
 
 ## My Interest in AI
 
-[What specifically interests you about AI and prompt engineering. Be specific rather than saying "I like AI." For example, the kinds of problems you want to solve or the tools you enjoy working with.]
+I don't have any
 
 ## Skills and Focus Areas
 
