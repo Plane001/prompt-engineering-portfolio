@@ -1,8 +1,6 @@
 # About Me
 
-> *[One professional line: who you are and what you focus on, for example: "Student exploring AI and prompt engineering, building a portfolio of practical, well-documented prompts."]*
-
-## Instructions for Use (delete this section when you write your own)
+> *I like peanut butter*
 
 This is the homepage of a **public** portfolio. Anyone on the internet can read it, including future employers, so keep it professional and keep your private life private.
 
