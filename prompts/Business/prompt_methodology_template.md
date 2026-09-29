@@ -1,28 +1,23 @@
-# Design Methodology: [Prompt Name]
+## Methodology
 
-## Design Goal
-
-[A sentence or two on what you were trying to achieve and who the prompt is for.]
+This prompt is meant to analyze and make a chart of a business's stock prices from the past 10 years to now with key events that caused different reactions pointed out.
 
 ---
 
 ## Design Approach: Structure and Technique
 
-Explain the two design choices behind your prompt and why they fit the task.
+I decided to use a Role-Context-Task-Format structure with zero-shot chain-of-thought technique to try to get the best results.
 
-**Structure I used:** [A lesson framework, a modified framework, or your own structure, for example: C-A-R-E, a modified R-T-F, or a custom Context/Task/Constraints/Format layout.]
+**Role-Task-Context-Format**
 
 **Why this structure fits my task:**
 - [Reason 1]
 - [Reason 2]
 
-**Technique I used:** [Zero-shot, few-shot, chain-of-thought, or zero-shot chain-of-thought.]
+**Zero Shot Chain of Thought:**
 
 **Why this technique fits my task:**
-[For example: I used few-shot because the AI needed to copy a specific tone, so I gave it two sample outputs. Or: I used zero-shot chain-of-thought because the task needs step-by-step logic but I did not have examples, so I added "Think through this step by step before you answer."]
-
-**Example of modifying a framework (delete if not relevant):**
-I started from R-T-F (Role, Task, Format) and added two parts. I added a **Constraints** part to stop the model from making pricing claims, and an **Example** part to lock in the tone I wanted. My final structure was Role, Task, Constraints, Example, Format. Each added part solved a specific problem the plain framework left open.
+This technique will better help me to understand where the AI got its sources and how to better prompt it next time.
 
 ---
 
@@ -32,9 +27,9 @@ Justify each part of your prompt: what it is, what goes in it, and why the promp
 
 | Part | What I put here | Why the prompt needs it |
 |------|-----------------|-------------------------|
-| [Part 1] | [Your text] | [Reason] |
-| [Part 2] | [Your text] | [Reason] |
-| [Part 3] | [Your text] | [Reason] |
+| Role | [Your text] | [Reason] |
+| Context | [Your text] | [Reason] |
+| Format | [Your text] | [Reason] |
 
 ---
 
